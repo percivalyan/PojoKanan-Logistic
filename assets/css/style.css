@@ -1,3 +1,4 @@
+
 :root {
   --dark-color: #373737;
   --prymary-color: #ff7474;
@@ -5,6 +6,7 @@
 
 body {
   height: 100%;
+  font-family: "poppins";
 }
 
 .text-dark {
