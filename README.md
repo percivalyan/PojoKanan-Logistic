@@ -1,6 +1,4 @@
 # KELOMPOK-12
-Testing Murni
-Testing ehan 
-Testing ikii
-Hallo
-tst
+
+Projek Informatic Student Club kelompok 12.
+Membuat Website Landing Page Profile Perushaan Logistik.
